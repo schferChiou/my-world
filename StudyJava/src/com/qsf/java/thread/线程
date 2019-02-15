@@ -1,0 +1,4 @@
+线程面试题：
+1、sleep()和wait()的区别
+	* sleep()是Thread类定义的方法，在休眠之后可以自动唤醒
+	* wait()是Object类定义的方法，等待之后必须使用notify()或者notifyAll()唤醒
