@@ -12,7 +12,7 @@
         <dependency>
             <groupId>org.apache.poi</groupId>
             <artifactId>poi</artifactId>
-            <version>1.0</version>
+            <version>3.17</version>
             <scope>system</scope>
             <systemPath>${project.basedir}/libs/poi-3.10-FINAL-20140208.jar</systemPath>
         </dependency>
